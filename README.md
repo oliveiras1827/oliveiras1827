@@ -46,7 +46,7 @@ Implementação de controles críticos de segurança em ambientes Microsoft.
 ### ☎️ Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vini-lima-01/" target="_blank">
+  <a href="(https://www.linkedin.com/in/vinicius-oliveira-lima-34a262272/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Oliveiras.ma987@gmail.com">
