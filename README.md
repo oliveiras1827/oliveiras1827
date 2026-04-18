@@ -1,33 +1,55 @@
-# Olá, eu sou o Vinicius! 👋
+<div align="center">
+  <h1>Olá, eu sou o Vinicius 👋</h1>
+  <p><strong>Cybersecurity Analyst | SOC • Blue Team • IAM</strong></p>
 
-Atualmente focado em **Cibersegurança**, com ênfase em operações de defesa (**Blue Team**) e gestão de identidades. Tenho sólida base em infraestrutura de TI e administração de acessos.
-
----
-
-### 🛡️ Especialidades em Segurança
-
-* **IAM (Identity & Access Management):** Gestão de ciclo de vida de identidades, governança de acesso e segurança de contas.
-* **Active Directory (AD):** Implementação de GPOs, hardening de diretório e gestão de permissões.
-* **SOC & Blue Team:** Monitoramento de eventos (SIEM), análise de logs e resposta a incidentes.
-* **Redes e Infra:** Segmentação de redes, protocolos de segurança e infraestrutura Windows Server.
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div>
-  <img src="https://img.shields.io/badge/IAM-0052CC?style=for-the-badge&logo=auth0&logoColor=white" alt="IAM" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft-active-directory&logoColor=white" alt="AD" />
-  <img src="https://img.shields.io/badge/SIEM-ED1C24?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Networking-4E4E4E?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <div>
+    <img src="https://img.shields.io/badge/-Cybersecurity-000?style=for-the-badge&logo=target" />
+    <img src="https://img.shields.io/badge/-SOC-000?style=for-the-badge&logo=fortinet" />
+    <img src="https://img.shields.io/badge/-Blue%20Team-000?style=for-the-badge&logo=splunk" />
+    <img src="https://img.shields.io/badge/-IAM-000?style=for-the-badge&logo=active-directory" />
+  </div>
 </div>
 
 ---
 
-### 🚀 Objetivos Atuais
-- Aprofundamento em ferramentas de Governança de Identidade (IGA).
-- Implementação de projetos de Hardening em ambientes híbridos.
-- Contribuir com a comunidade de Segurança Ofensiva/Defensiva.
+### 🛡️ Sobre Mim
+Analista de Segurança focado em **Defesa Cibernética** e **Governança de Identidades**. Possuo experiência prática em administração de infraestrutura Windows e hardening de Active Directory, atuando na detecção, análise e mitigação de ameaças.
 
-***
+* 📍 Ribeirão Preto, SP.
+* 🎓 Focado em metodologias de Blue Team e Identity & Access Management (IAM).
 
-*"A identidade é o novo perímetro de segurança."*
+---
+
+### 🚀 Projeto em Destaque: IAM & Active Directory Hardening
+Implementação de controles críticos de segurança em ambientes Microsoft.
+
+* **Defesa:** Prevenção contra ataques *Pass-the-Hash*, *Golden Ticket* e *Kerberoasting*.
+* **Arquitetura:** Aplicação do **Tiered Administration Model** para isolamento de privilégios.
+* **Auditoria:** Automação via PowerShell para identificação de vulnerabilidades em contas e GPOs.
+* **Conformidade:** Ajustes baseados nos benchmarks do **CIS (Center for Internet Security)**.
+
+👉 [**Acessar documentação do projeto**](https://oliveiras1827.github.io)
+
+---
+
+### 🧰 Stack Técnica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Defesa & Monitoramento** | SIEM, EDR, Logs (Sysmon/Event Viewer), MITRE ATT&CK |
+| **Identidade & Acesso** | Active Directory, IAM, PAM, RBAC |
+| **Infraestrutura** | Windows Server, Hardening de Sistemas, PowerShell |
+| **Ferramentas** | Wireshark, Nmap, Sentinel, Splunk |
+
+---
+
+### ☎️ Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vini-lima-01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Oliveiras.ma987@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
